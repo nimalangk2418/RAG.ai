@@ -1,11 +1,13 @@
-# RAG.ai
-This is a retrieval and generative tool used for scanning PDFs/Docs for generative insights 
-
+# <u>RAG.ai</u>
+This is a retrieval and generative tool used for scanning PDFs/Docs for generative insights using LLMs. 
+### all the python packages needed for the application are in <u>requirements.txt</u>. Use the below command to import all the packages
 `` pip install -r requirements.txt ``
-# Use the below link for HF Embeddings 
+## HF Embeddings: 
+### Use the below link for HF Embeddings.
 About HF Embeddings - "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2"
 
-# After running of model. Push to git
+## Upload to Git
+### After running of model. Use this commands to push into git.
 ``git init ``
 ``git add .``
 ``git commit -m "Final"``
